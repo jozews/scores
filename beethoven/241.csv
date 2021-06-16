@@ -23,7 +23,6 @@
 -4|,-4|
 *dynamic_p,*dynamic_p
 *metre_4/4,
-*premium,
 *tempo_4=135,
 4r,8.A4#¯L
 ,16B4¯⅃
@@ -113,6 +112,7 @@
 4F2# 4F3#,4C4# 4F4# 4A4#
 4r,4r
 -13|,-13|
+*premium,
 4F3# 4A3#,4C4# 4F4# 4A4#
 4r,4r
 4B2 4D3# 4G3#,4D4# 4G4# 4B4

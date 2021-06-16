@@ -37,7 +37,6 @@
 8r,8r
 8..r,4r
 *pedal_sustain,
-*premium,
 32A3♭ 32A4♭,
 -3|,-3|
 8..B2>L 8..B3>,8..r
@@ -270,6 +269,7 @@
 4r,4r
 8r,8r
 *dynamic_ff,*dynamic_ff
+*premium,
 24G1L,24G2L
 24A1,24A2
 24B1⅃,24B2⅃

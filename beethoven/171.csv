@@ -61,7 +61,6 @@
 2.E2;3 2.G2;3 2.C3;3,2.C5;3
 *dynamic_p,*dynamic_p
 *pedal_sustain,
-*premium,
 *tempo_4=240,
 4E3 4C4,8C5¯L
 ,8B4♭⅃
@@ -176,6 +175,7 @@
 4A2 4E3 4G3,8C4#¯
 ,8A4⅃
 -20|,-20|
+*premium,
 2D2,12D4L
 ,12A3
 ,12F3⅃

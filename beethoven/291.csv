@@ -58,7 +58,6 @@
 4E2♭,4G4 4C5 8F5¯>
 ,8E5♭⅃
 4F2;,4A4; 4C5;
-*premium,
 *tempo_+2,
 4r,8B5♭¯L
 ,8C6¯⅃
@@ -343,6 +342,7 @@
 *pedal_sustain,
 4.r;,4.r;
 *dynamic_p,*dynamic_p
+*premium,
 8D3,8r
 -39|,-39|
 4.D4,4r

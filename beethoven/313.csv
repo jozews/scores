@@ -44,7 +44,6 @@
 *tempo_4=30.62,
 4r,4D5♭¯
 2r,8.D5♭L
-*premium,
 ,16B4♭⅃
 *pedal_sustain,
 ,8A4♭L
@@ -373,6 +372,7 @@
 16r,16r
 *dynamic_pp,*dynamic_pp
 *pedal_sustain,
+*premium,
 16A1♭ 16A2♭,16A3♭
 16r,16r
 16r,16r

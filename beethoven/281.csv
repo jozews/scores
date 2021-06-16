@@ -45,7 +45,6 @@
 4.F2# 4.F3#;,4.A4 4.C5#;
 -6|,-6|
 *dynamic_scendo,*dynamic_scendo
-*premium,
 *tempo_8=200,
 4.F2#¯ 4.F3#¯,8A4L 4C5#`
 ,8D4#
@@ -106,6 +105,7 @@
 -16|,-16|
 4.A3#,4r
 ,8r
+*premium,
 4.A3 8D4#L,8F5#¯L
 8C4#,8E5¯
 8B3⅃,8D5#`⅃

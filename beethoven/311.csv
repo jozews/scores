@@ -36,7 +36,6 @@
 -4|,-4|
 *tempo_4=73.33,
 16A3♭L,4.C5¯
-*premium,
 16C4 16E4♭,
 16C4 16E4♭,
 16C4⅃ 16E4♭,
@@ -398,6 +397,7 @@
 16F3⅃ 16C4,16E5♭⅃,16A5⅃
 -24|,-24|
 *dynamic_p,*dynamic_p
+*premium,
 4G3 4B3♭ 4E4♭,4B4♭ 4E5♭ 4B5♭
 *dynamic_scendo,*dynamic_scendo
 ,32A4g

@@ -26,7 +26,6 @@
 -4|,-4|
 4.E1#─ 4.E2#─,4.G4# 4.C5# 4.G5#
 *pedal_sustain,
-*premium,
 4.E3#─> 4.G3#─> 4.B3─> 4.D4─>,4.G4#> 4.B4> 4.D5>
 -5|,-5|
 4.E1#─ 4.E2#─,4.G4#` 4.B4` 4.D5` 4r
@@ -192,6 +191,7 @@
 -26|,-26|
 *pedal_soft,
 8r─,4r
+*premium,
 16F2#─L,
 16r─,
 *dynamic_scendo,*dynamic_scendo
