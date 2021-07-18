@@ -2,7 +2,7 @@
 *accidents_F1#,
 *dynamic_p,*dynamic_p
 *metre_3/4,
-*section_allegretto,
+*title_allegretto,
 *tempo_4=140,
 2.E3¯ 4.r,2.G3 2.B3 4.E4¯
 8D3#¯,8D4#¯
@@ -266,7 +266,7 @@
 -62||:,-62||:
 *accidents_,
 *dynamic_p,*dynamic_p
-*section_maggiore,
+*title_maggiore,
 *tempo_4=151.66,
 2.C2¯ 2.C3,2.G3 2.E4¯
 -63|,-63|
@@ -407,7 +407,7 @@
 2.B2; 2.D3#; 2.F3#; 2.B3;,2.B4; 2.B5;
 -100||,-100||
 *dynamic_p,*dynamic_p
-*section_coda,
+*title_coda,
 *tempo_4=140,
 2.C2¯ 2.C3,2.G3¯ 2.E4¯
 -101|,-101|

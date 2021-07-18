@@ -3,6 +3,7 @@
 *dynamic_p,*dynamic_p
 *metre_2/4,
 *tempo_4=150,
+*title_allegro_vivace,
 8r,8B2♭
 -1|,-1|
 16r,4E3♭¯
@@ -2084,6 +2085,7 @@
 *dynamic_p,*dynamic_p
 *metre_3/4,
 *tempo_4=37.5,
+*title_adagio_con_espressione,
 8E2♭L 8E3♭,2B3♭ 2E4♭ 2G4
 8E2♭ 8E3♭,
 8E2♭ 8E3♭,
@@ -2242,6 +2244,7 @@
 *dynamic_p,*dynamic_p
 *metre_2/4,
 *tempo_4=225,
+*title_presto,
 8r,4E3♭¯
 8E2♭,
 8r,4C3¯

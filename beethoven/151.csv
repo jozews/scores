@@ -3,6 +3,7 @@
 *dynamic_p,*dynamic_p
 *metre_3/4,
 *tempo_4=200,
+*title_allegro,
 4D2,2.r
 4D2,
 4D2,
@@ -1487,6 +1488,7 @@
 2r;,2r;
 *dynamic_pp,*dynamic_pp
 *tempo_4=66.66,
+*title_adagio,
 ,4D5¯
 -267|,-267|
 2.A3¯ 2.E4¯ 2.G4¯,4D5¯
@@ -1497,6 +1499,7 @@
 2.A3; 2.E4; 2.G4;,2.G5;
 -269|,-269|
 *tempo_4=200,
+*title_allegro,
 4D2,2.r
 4D2,
 4D2,

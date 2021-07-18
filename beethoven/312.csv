@@ -3,6 +3,7 @@
 *dynamic_p,*dynamic_p
 *metre_2/4,
 *tempo_4=280,
+*title_allegro_molto,
 4F2¯ 4F3¯,4A4♭¯ 4C5
 4G2¯ 4G3¯,4E4¯ 4B4♭
 -1|,-1|
@@ -584,6 +585,7 @@
 4r,4r
 -147|,-147|
 *dynamic_f,*dynamic_f
+*title_coda,
 2F2 2C3 2F3,2A4♭ 2C5 2F5
 -148|,-148|
 2r,2r

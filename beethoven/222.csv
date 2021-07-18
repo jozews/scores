@@ -3,6 +3,7 @@
 *dynamic_p,*dynamic_p
 *metre_2/4,
 *tempo_4=125,
+*title_allegretto,
 16F2¯L,2r
 16A2¯,
 16C3¯,
@@ -1521,6 +1522,7 @@
 -164:|,-164:|
 *dynamic_f,*dynamic_f
 *tempo_4=145.83,
+*title_piu_allegro,
 16F1L,16F3L
 16F2,16A3
 16F1,16C4

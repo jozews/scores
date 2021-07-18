@@ -3,6 +3,8 @@
 *dynamic_p,*dynamic_p
 *metre_3/4,
 *tempo_4=140,
+*title_allegretto,
+*title_scherzo,
 4r,16A5L
 ,16E5
 ,16C6#
@@ -280,6 +282,7 @@
 *accidents_,
 *dynamic_p,*dynamic_p
 *tempo_4=155.55,
+*title_trio,
 4r,4E4
 -47|,-47|
 8A3L,4C5¯

@@ -3,6 +3,7 @@
 *dynamic_p,*dynamic_p
 *metre_4/4,
 *tempo_4=200,
+*title_presto_agitato,
 8C2#·L,16r
 ,16G2#L
 8G2#·,16C3#
@@ -2992,11 +2993,13 @@
 -188|,-188|
 *dynamic_p,*dynamic_p
 *tempo_4=50,
+*title_adagio,
 1F1## 1F2##,1r
 -189|,-189|
 1G1# 1G2#,1r
 -190|,-190|
 *tempo_4=200,
+*title_presto_agitato,
 16C2#L,4C3#
 16C3#,
 16G2#,

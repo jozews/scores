@@ -3,6 +3,7 @@
 *dynamic_f,*dynamic_f
 *metre_4/4,
 *tempo_4=60,
+*title_maestoso,
 32E3♭ 32E4♭,32r
 -1|,-1|
 8..F2#L 8..F3#,8..r
@@ -227,6 +228,7 @@
 *dynamic_scendo,*dynamic_scendo
 *tempo_4=120,
 *tempo_accelerando,
+*title_allegro_con_brio_ed_appassionato,
 16G1L,1D3 1G3 1B3 1D4
 16A1♭,
 16G1,
@@ -764,6 +766,7 @@
 4E3♭ 4G3 4B3♭,4D5♭ 4G5 4D6♭
 4E3♭ 4A3♭ 4C4,4C5¯ 4A5♭ 4C6¯
 *tempo_4=112.5,
+*title_meno_allegro,
 4r,48C5¯L 48A5♭ 48C6¯
 ,48E6♭¯
 ,48D6¯
@@ -808,12 +811,14 @@
 4r,4r
 8.r,8.r
 *tempo_4=60,
+*title_adagio,
 16D4♭ 16G4 16B4♭,16G5 16B5♭ 16F6
 -55|,-55|
 4D4♭ 4G4 4B4♭,4G5 4B5♭ 4F6
 4C4 4A4♭ 4C5,4E5♭ 4A5♭ 4E6♭
 4r,4r
 *tempo_4=150,
+*title_allegro_con_brio_ed_appassionato,
 8r,8r
 *dynamic_ff,*dynamic_ff
 8D4 8F4 8A4♭ 8C5♭,16A6♭L
@@ -1737,6 +1742,7 @@
 4G3 4B3 4D4,4F5 4D6 4F6
 4G3 4C4 4E4,4E5¯ 4C6¯ 4E6¯
 *tempo_4=112.5,
+*title_meno_allegro,
 2r,48E5¯L 48C6¯ 48E6¯
 ,48G6¯
 ,48F6#¯
@@ -1783,6 +1789,7 @@
 4r,4r
 8.r,8.r
 *tempo_4=60,
+*title_adagio,
 16F3 16G3 16B3,16G4 16D5 16A5
 -122|,-122|
 4F3 4G3 4B3,4G4 4D5 4A5
@@ -1790,6 +1797,7 @@
 4r,4r
 8.r,8.r
 *tempo_4=150,
+*title_allegro_con_brio_ed_appassionato,
 16F4 16B4,16D5 16A5♭
 -123|,-123|
 4F4¯ 4B4,4D5¯ 4A5♭¯
@@ -1835,6 +1843,7 @@
 ,16F5
 ,16A5♭⅃
 *tempo_4=112.5,
+*title_meno_allegro,
 4A2♭ 4A3♭,16C6L
 ,16E6
 ,16F6
@@ -1872,6 +1881,7 @@
 *tempo_+4,
 -129|,-129|
 *tempo_accelerando,
+*title_piu_allegro,
 8F3L 8A3♭ 8C4,20B5♭¯L
 ,20A5♭¯
 ,20B5♭¯
@@ -1942,6 +1952,7 @@
 -133|,-133|
 *dynamic_ff,*dynamic_ff
 *tempo_4=150,
+*title_allegro_con_brio_ed_appassionato,
 8F4#L 8A4 8E5♭,16C7¯L
 ,16E7♭
 16A5¯,16A6¯

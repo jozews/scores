@@ -3,6 +3,7 @@
 *dynamic_pp,*dynamic_pp
 *metre_2/4,
 *tempo_4=45,
+*title_adagio_cantabile,
 2F1# 2F2#,4A3# 4C4#¯
 ,8.A3#L 8.C4# 8.F4#¯
 ,16B3⅃ 16E4# 16G4#
@@ -24,6 +25,7 @@
 *dynamic_p,*dynamic_p
 *metre_4/4,
 *tempo_4=135,
+*title_allegro_ma_non_troppo,
 4r,8.A4#¯L
 ,16B4¯⅃
 -5|:,-5|:

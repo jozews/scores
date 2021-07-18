@@ -3,6 +3,8 @@
 *dynamic_p,*dynamic_p
 *metre_6/8,
 *tempo_8=300,
+*title_allegro_ma_non_troppo,
+*title_rondo,
 8A2¯,8r
 -1|
 4D2¯
@@ -1597,6 +1599,7 @@
 -193||,-193||
 *dynamic_p,*dynamic_p
 *tempo_8=400,
+*title_piu_allegro,
 8A2· 8A3·,16G5¯L
 ,16F5#⅃
 -194|,-194|

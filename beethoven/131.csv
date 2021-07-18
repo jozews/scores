@@ -3,6 +3,7 @@
 *dynamic_pp,*dynamic_pp
 *metre_2/2,
 *tempo_2=50,
+*title_andante,
 2r,4B3♭` 4G4` 4B4♭`
 ,4B3♭` 4G4` 4B4♭`
 16r,2B3♭ 2E4♭ 2G4
@@ -451,6 +452,7 @@
 *dynamic_f,*dynamic_f
 *metre_6/8,
 *tempo_8=300,
+*title_allegro,
 8r,16G3L
 ,16F3⅃
 -39|,-39|
@@ -763,6 +765,7 @@
 *dynamic_pp,*dynamic_pp
 *metre_2/2,
 *tempo_2=50,
+*title_andante,
 2r,4B3♭` 4G4` 4B4♭`
 ,4B3♭` 4G4` 4B4♭`
 16r,2B3♭ 2E4♭ 2G4

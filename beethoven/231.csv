@@ -3,6 +3,7 @@
 *dynamic_pp,*dynamic_pp
 *metre_12/8,
 *tempo_8=320,
+*title_allegro_assai,
 4C2¯,4C4¯
 16C2¯L,16C4¯L
 16A1♭¯⅃,16A3♭¯⅃
@@ -3837,6 +3838,7 @@
 *dynamic_scendo,*dynamic_scendo
 4.C2,4.r
 *tempo_8=64,
+*title_adagio,
 8D2♭`L,8G4`L 8B4♭` 8E5`
 8D2♭`,8G4` 8B4♭` 8E5`
 8D2♭`⅃,8G4`⅃ 8B4♭` 8E5`
@@ -3846,6 +3848,7 @@
 -239||,-239||
 *dynamic_ff,*dynamic_ff
 *tempo_8=440,
+*title_piu_allegro,
 8C2L 8C3,8E5L 8G5 8B5♭ 8C6 8E6
 8C2 8C3,8E5 8G5 8B5♭ 8C6 8E6
 8C2⅃ 8C3,8E5⅃ 8G5 8B5♭ 8C6 8E6

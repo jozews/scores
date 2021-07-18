@@ -3,6 +3,7 @@
 *dynamic_p,*dynamic_p
 *metre_3/4,
 *tempo_4=112.5,
+*title_in_tempo_di_un_menuetto,
 4r,8.C3¯L
 ,16E3¯⅃
 -1|,-1|
@@ -1383,6 +1384,7 @@
 ,16E4q
 ,16D4q⅃
 *tempo_4=60.93,
+*title_adagio,
 ,8C4qL
 ,8B3q;
 ,8C4q⅃
@@ -1391,6 +1393,7 @@
 ,16E4♭`
 ,16E4`;⅃
 *tempo_4=112.5,
+*title_in_tempo_di_un_menuetto,
 4r,8.C4¯L
 ,16F4⅃
 -137|,-137|

@@ -2,7 +2,7 @@
 *accidents_B1♭E1♭A1♭,
 *dynamic_f,*dynamic_f
 *metre_4/4,
-*section_grave,
+*title_grave,
 *tempo_4=30,
 4C2¯ 4E2♭¯ 4G2¯ 4C3¯,4E3♭¯ 4G3¯ 4C4¯
 *dynamic_p,*dynamic_p
@@ -226,8 +226,8 @@
 -10|:,-10|:
 *dynamic_p,*dynamic_p
 *metre_2/2,
-*section_allegro_subito,
 *tempo_2=180,
+*title_allegro_di_molto_e_con_brio,
 8C2L,2.C4
 8C3,
 8C2,
@@ -1154,7 +1154,7 @@
 -134||,-134||
 *dynamic_f,*dynamic_f
 *metre_4/4,
-*section_grave,
+*title_grave,
 *tempo_4=30,
 *tempo_accelerando,
 4G1¯ 4B1♭¯ 4D2¯ 4G2¯,4G3¯ 4B3♭¯ 4D4¯ 4G4¯
@@ -1207,8 +1207,8 @@
 *accidents_,
 *dynamic_p,*dynamic_p
 *metre_2/2,
-*section_allegro_con_brio,
 *tempo_2=180,
+*title_allegro_molto_e_con_brio,
 8E2L,4E4·
 8E3,
 *dynamic_scendo,*dynamic_scendo
@@ -2465,7 +2465,7 @@
 -296||,-296||
 *dynamic_p,*dynamic_p
 *metre_4/4,
-*section_grave,
+*title_grave,
 *tempo_4=30,
 *tempo_accelerando,
 4r,4r
@@ -2509,8 +2509,8 @@
 -300||,-300||
 *dynamic_p,*dynamic_p
 *metre_2/2,
-*section_allegro_con_brio,
 *tempo_2=180,
+*title_allegro_molto_e_con_brio,
 8C2L,2.C4
 8C3,
 8C2,

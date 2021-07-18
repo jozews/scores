@@ -4,6 +4,7 @@
 *metre_35/16,,
 *pedal_sustain,,
 *tempo_16=76,,
+*title_largo,,
 48F2¯L,48r,
 48F3¯⅃,48r,
 48r,48F3,
@@ -90,6 +91,7 @@
 *accidents_F1#C1#G1#D1#A1#,
 *pedal_sustain,
 *tempo_16=124,
+*title_un_poco_piu_vivace,
 32F3#L,32r
 32G3#,16r
 32A3#,
@@ -146,6 +148,7 @@
 *pedal_sustain,
 *pedal_sustain,
 *tempo_16=76,
+*title_largo,
 32r,32D5#¯ 32F5#¯ 32B5¯ 32D6#¯
 16r,16D5# 16F5# 16B5 16D6#
 16B1 16B2,16r
@@ -157,6 +160,7 @@
 *dynamic_f,*dynamic_f
 *metre_4/4,
 *tempo_4=124,
+*title_allegro,
 8G1# 8G2#,16D5#L 16G5# 16B5 16D6#
 *dynamic_p,*dynamic_p
 *pedal_sustain,
@@ -252,6 +256,7 @@
 8..r;,8..r;
 *pedal_sustain,
 *tempo_16=76,
+*title_largo,
 32r,32B4¯ 32D5#¯ 32G5#¯ 32B5¯
 16r,16B4 16D5# 16G5# 16B5
 16G2# 16G3#,16r
@@ -379,6 +384,7 @@
 32r,32A4L 32D5 32F5
 *dynamic_ff,*dynamic_ff
 *tempo_16=432,
+*title_prestissimo,
 32D2 32D3,32r
 *pedal_sustain,
 16r,16A4⅃ 16D5 16F5
@@ -424,6 +430,7 @@
 *metre_3/4,
 *pedal_sustain,
 *tempo_4=144,
+*title_allegro_risoluto,
 8F1 8F2,2.A5¯t24
 8r,
 8F3 8A3,
@@ -470,6 +477,7 @@
 ,16C4
 ,16B3♭⅃
 -15|,-15|
+*title_fuga_a_tre_voci_con_alcune_licenze,
 8F3,16A3L
 ,16B3♭
 8r,16A3
@@ -4439,6 +4447,7 @@
 -380|,-380|
 *dynamic_p,*dynamic_p
 *tempo_4=96,
+*title_poco_adagio,
 4G1♭ 4B1♭ 4G2♭,2C5 2E5♭ 2A5t24
 2G1 2B1♭ 2G2,
 ,16G5g
@@ -4462,6 +4471,7 @@
 4.F3 4.A3 4.C4,4.F4 4.C5 4.E5♭
 *pedal_sustain,
 *tempo_4=144,
+*title_allegro_risoluto,
 8r,16G5L
 ,16F5⅃
 4r,16E5♭L

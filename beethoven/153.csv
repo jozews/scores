@@ -3,6 +3,8 @@
 *dynamic_p,*dynamic_p
 *metre_3/4,
 *tempo_4=300,
+*title_allegro_vivace,
+*title_scherzo,
 2.r,2.F5#¯
 -1|,-1|
 2.r,2.F4# 2.F5#
@@ -324,6 +326,7 @@
 8D3,
 8D4⅃,
 -78:|,-78:|
+*title_trio,
 8D3¯L,2.F5#
 8D4¯,
 8F3#¯,

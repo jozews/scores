@@ -3,6 +3,8 @@
 *dynamic_p,*dynamic_p
 *metre_3/4,
 *tempo_4=100,
+*title_menuetto,
+*title_moderato_e_grazioso,
 4r,8.B3♭¯L
 ,16E4♭⅃
 -1|,-1|
@@ -146,6 +148,7 @@
 -21||,-21||
 *premium,
 *tempo_4=104.16,
+*title_trio,
 4E2♭· 4B2♭· 4E3♭·,4G3· 4E4♭· 4G4·
 -22|,-22|
 2F3 2B3♭ 2F4,2A4♭ 2D5 2A5♭

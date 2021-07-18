@@ -3,6 +3,8 @@
 *dynamic_p,*dynamic_p
 *metre_3/4,
 *tempo_4=240,
+*title_assai_vivace,
+*title_scherzo,
 8.B3♭L 8.D4¯,8.D5¯L
 16F3>⅃ 16C4>,16A4>⅃ 16F5>
 -1|,-1|
@@ -642,6 +644,7 @@
 *dynamic_p,*dynamic_p
 *metre_2/4,
 *tempo_4=320,
+*title_presto,
 8B3♭,8B4♭
 8r,8r
 8D4♭,8D5♭
@@ -784,6 +787,7 @@
 4F1;,4A1; 4C2;
 *pedal_sustain,
 *tempo_4=426.66,
+*title_prestissimo,
 12F1qL,4rq
 12G1q,
 12A1q⅃,
@@ -834,6 +838,7 @@
 *metre_3/4,
 *pedal_sustain,
 *tempo_4=240,
+*title_assai_vivace,
 16F3!L,16E5♭!L 16G5♭!
 16E4♭!,16A4!
 16F3!,16E5♭! 16G5♭!
@@ -1211,6 +1216,7 @@
 *accidents_,
 *metre_2/2,
 *tempo_2=320,
+*title_presto,
 4B1 4B2,4B3 4B4
 4B1 4B2,4B3 4B4
 4B1 4B2,4B3 4B4
@@ -1236,6 +1242,7 @@
 *accidents_B1♭E1♭,
 *metre_3/4,
 *tempo_4=240,
+*title_assai_vivace,
 8B1♭ 8B2♭,8B5♭ 8B6♭
 8r,8r
 4r,4r

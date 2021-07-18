@@ -3,6 +3,7 @@
 *dynamic_p,*dynamic_p
 *metre_2/4,
 *tempo_4=125,
+*title_vivace_ma_non_troppo,
 8r,4G4# 16rL
 ,8.B4⅃
 16E3¯L,
@@ -85,6 +86,7 @@
 *dynamic_scendo,*dynamic_scendo
 *metre_3/4,
 *tempo_4=41.66,
+*title_adagio_espressivo,
 ,12A4¯q 48rq
 ,16B4#¯q 48rq
 ,24D5#¯q 48rq
@@ -301,6 +303,7 @@
 *metre_2/4,
 *premium,
 *tempo_4=125,
+*title_vivace_ma_non_troppo,
 4D4# 16rL,8B5
 8.F4#⅃,
 ,16B4¯L
@@ -710,6 +713,7 @@
 *dynamic_scendo,,*dynamic_scendo
 *metre_3/4,,
 *tempo_4=41.66,,
+*title_adagio_espressivo,,
 ,,12D5¯q 48rq
 ,,16E5#¯q 48rq
 ,,24G5#¯q 48rq
@@ -937,6 +941,7 @@
 ,8B5#⅃
 *tempo_+3,
 *tempo_4=125,
+*title_vivace_ma_non_troppo,
 8r,4C6# 16rL
 ,8.E6⅃
 16A4¯L,

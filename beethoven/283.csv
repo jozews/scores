@@ -4,6 +4,7 @@
 *metre_2/4,
 *pedal_soft,
 *tempo_4=33.33,
+*title_langsam_und_sehnsuchtsvoll,
 8G1#¯L 8G2#,8B3¯L 4E4
 8B1¯⅃ 8B2,8D4⅃
 4A1 4A2,4C4 16E4¯L
@@ -202,6 +203,7 @@
 *dynamic_p,*dynamic_p
 *pedal_sustain,
 *tempo_4=66.66,
+*title_non_presto,
 4E2; 4G2#; 4B2; 4E3;,4G3#; 4B3; 4E4; 4G4#;
 *pedal_sustain,
 ,20G4#¯qL
@@ -262,6 +264,7 @@
 *metre_6/8,
 *pedal_soft,
 *tempo_8=177.77,
+*title_zeitmass_des_ersten_stuckes,
 2.E2¯ 4E3,8E4L 4G4#¯
 ,8B3
 8D3#,8F4#⅃ 8A4¯
@@ -314,6 +317,7 @@
 *dynamic_f,*dynamic_f
 *dynamic_scendo,*dynamic_scendo
 *tempo_8=200,
+*title_presto,
 4E4· 4G4#· 4B4· 4D5·,36E5L 36E6
 ,36D6#
 ,36D6
@@ -324,8 +328,8 @@
 ,36F5#
 ,36E5⅃
 *dynamic_p,*dynamic_p
-,2D5qt36;
-,2D5#qt36;
+,2D5q;t36
+,2D5#q;t36
 ,24D5#q
-,2E5qt36;
+,2E5q;t36
 -28|,-28|

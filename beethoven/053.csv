@@ -3,6 +3,8 @@
 *dynamic_p,*dynamic_p
 *metre_4/4,
 *tempo_4=200,
+*title_finale,
+*title_prestissimo,
 8C3¯,8C4¯
 8B2¯L,8B3¯L
 8C3,8C4
@@ -1045,7 +1047,7 @@
 4r,8F5L 8B5¯
 ,8E5♭⅃ 8C6
 -103|,-103|
-*section_coda,
+*title_coda,
 8A1♭¯L,4r
 8A2♭⅃,
 *dynamic_scendo,*dynamic_scendo
@@ -1135,6 +1137,7 @@
 ,16A3¯q 32rq
 ,32C4¯q
 *tempo_4=66.66,
+*title_adagio,
 1A2─; 1C3─; 1E3♭─;,2F3#¯─ 2A3¯─ 2C4─ 4.F4#─
 ,8E4♭─
 ,2F3#─; 2A3─; 2C4─;
@@ -1143,6 +1146,7 @@
 *dynamic_ff,*dynamic_ff
 *pedal_sustain,
 *tempo_4=200,
+*title_prestissimo,
 24G1¯q,
 24C2¯q,
 24E2♭¯q,

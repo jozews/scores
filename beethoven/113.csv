@@ -3,6 +3,7 @@
 *dynamic_p,*dynamic_p
 *metre_3/4,
 *tempo_4=120,
+*title_menuetto,
 4r,8.D4¯L
 ,16E4♭⅃
 -1|,-1|
@@ -308,6 +309,7 @@
 *dynamic_f,*dynamic_f
 *metre_3/4,
 *tempo_4=135,
+*title_minore,
 16D4L,4r
 16E4♭,
 16D4,

@@ -4,6 +4,8 @@
 *metre_2/4,
 *pedal_sustain,
 *tempo_4=90,
+*title_allegretto_moderato,
+*title_rondo,
 8C2,16r
 ,16E3¯L
 8r,16G3¯
@@ -3815,6 +3817,7 @@
 *metre_2/2,
 *pedal_sustain,
 *tempo_2=180,
+*title_prestissimo,
 4C2 4C3,4C4·
 *dynamic_p,*dynamic_p
 8E4L,4G6¯

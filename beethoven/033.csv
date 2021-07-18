@@ -2,8 +2,9 @@
 *accidents_,
 *dynamic_p,*dynamic_p
 *metre_3/4,
-*section_scherzo,
 *tempo_4=225,
+*title_allegro,
+*title_scherzo,
 8r,8G5¯L
 4r,8F5#¯
 ,8G5⅃
@@ -360,7 +361,7 @@
 4r,4r
 4r,4r
 -67||:,-67||:
-*section_trio,
+*title_trio,
 *tempo_4=250,
 2.A1 2.A2,12E3L
 ,12A3
@@ -751,7 +752,7 @@
 4r,4r
 8r,8r
 -109||,-109||
-*section_coda,
+*title_coda,
 4r,4r
 4r,4r
 4A2 4A3,4A4 4A5

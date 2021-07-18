@@ -4,6 +4,7 @@
 *metre_4/4,
 *pedal_soft,
 *tempo_4=35,
+*title_adagio_ma_non_troppo,
 8..B1♭L 8..B2♭,8..D5♭L 8..F5
 32B1♭⅃ 32B2♭,32D5♭⅃ 32F5
 8B1♭L 8B2♭,8E5♭`L 8G5♭`
@@ -30,6 +31,7 @@
 *metre_56/32,
 *pedal_sustain,
 *tempo_4=37.91,
+*title_recitativo,
 40E2♭¯L,8r
 40G2¯,
 40B2♭¯,
@@ -42,6 +44,7 @@
 ,48G4¯
 ,48B4♭⅃
 *tempo_4=30.62,
+*title_piu_adagio,
 4r,4D5♭¯
 2r,8.D5♭L
 ,16B4♭⅃
@@ -58,6 +61,7 @@
 ,16C5♭⅃
 *dynamic_scendo,*dynamic_scendo
 *tempo_4=52.5,
+*title_andante,
 8F2♭L 8F3♭,8A3♭L 8C4♭
 8D2♭ 8D3♭,8F3♭ 8B3♭♭
 8C2♭⅃ 8C3♭,8E3♭⅃ 8G3♭ 8B3♭♭
@@ -66,6 +70,7 @@
 *dynamic_p,*dynamic_p
 *metre_25/32,
 *tempo_4=32.81,
+*title_adagio,
 ,40A4q
 *pedal_sustain,
 32/25B2─ 32/25D3#─ 32/25F3#─ 32/25A3─,16.A5
@@ -107,6 +112,7 @@
 *pedal_soft,
 *tempo_+32,
 ,8A5L
+*title_cantabile,
 ,8F5#
 ,8D5#
 ,8A4⅃
@@ -118,6 +124,7 @@
 *dynamic_scendo,*dynamic_scendo
 *metre_5/4,
 *tempo_4=33.90,
+*title_meno_adagio,
 4E3─ 4G3#─ 4B3─,8G4#
 ,4E5
 4D3♭─ 4E3─ 4G3─ 4B3♭─,
@@ -126,6 +133,7 @@
 *dynamic_f,*dynamic_f
 *dynamic_scendo,*dynamic_scendo
 *tempo_4=32.81,
+*title_adagio,
 4D3─ 4F3─ 4A3♭─ 4C4♭─,4C5♭─
 4r,8B4♭`L
 ,8A4♭`⅃
@@ -137,6 +145,7 @@
 *dynamic_p,*dynamic_p
 *metre_12/16,
 *tempo_16=140,
+*title_adagio_ma_non_troppo,
 16E3♭L,16E4♭L
 *pedal_soft,
 16E3♭,16E4♭
@@ -158,6 +167,7 @@
 16A2♭ 16C3♭ 16E3♭,16A3♭ 16C4♭ 16E4♭
 16A2♭⅃ 16C3♭ 16E3♭,16A3♭⅃ 16C4♭ 16E4♭
 -9|,-9|
+*title_arioso_dolente,
 16A2♭L 16C3♭ 16E3♭,8.E5♭¯
 16A2♭ 16C3♭ 16E3♭,
 16A2♭⅃ 16C3♭ 16E3♭,
@@ -384,6 +394,8 @@
 *dynamic_p,*dynamic_p
 *metre_6/8,
 *tempo_8=280,
+*title_allegro_ma_non_troppo,
+*title_fuga,
 4.A3♭¯,4r
 ,8r
 -28|,-28|
@@ -1010,6 +1022,7 @@
 *pedal_sustain,
 *pedal_sustain,
 *tempo_16=140,
+*title_arioso_dolente,
 8.D2 8.D3,16D4L 16G4 16B4♭ 16D5
 ,16B4♭
 ,16G4⅃
@@ -1324,6 +1337,7 @@
 *accidents_F1#,
 *metre_6/8,
 *tempo_accelerando,
+*title_fuga,
 4r,4.D5¯
 8r,
 -139|,-139|
@@ -1559,6 +1573,7 @@
 ,8A3♭⅃
 *dynamic_p,*dynamic_p
 *tempo_8=256.66,
+*title_meno_allegro,
 ,16E4♭L
 ,16A4♭⅃
 4E2♭ 4E3♭,16G4L
@@ -1623,6 +1638,7 @@
 ,32F3
 ,16E3♭⅃
 *tempo_accelerando,
+*title_piu_moto,
 4.C5,16E5♭L
 ,16B5♭
 ,16A5♭

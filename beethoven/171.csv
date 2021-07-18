@@ -3,6 +3,7 @@
 *metre_4/4,
 *pedal_sustain,
 *tempo_4=40,
+*title_largo,
 1C2#¯:12 1E2¯:12 1A2¯:12,2C3#:12 2E3:12 2A3:12
 ,4C4#·
 ,4E4·
@@ -11,6 +12,7 @@
 *dynamic_p,*dynamic_p
 *pedal_sustain,
 *tempo_4=240,
+*title_allegro,
 4C3#· 4A3·,8A4¯L
 ,8G4⅃
 -2|,-2|
@@ -45,6 +47,7 @@
 *dynamic_f,*dynamic_f
 *dynamic_scendo,*dynamic_scendo
 *tempo_4=60,
+*title_adagio,
 2A3! 2D4!,2F4! 4.G4#¯!+ƨ8#
 ,16B4¯L
 ,16A4⅃
@@ -54,6 +57,7 @@
 *dynamic_pp,*dynamic_pp
 *pedal_sustain,
 *tempo_4=40,
+*title_largo,
 1E2¯:12 1G2¯:12 1C3¯:12,2E3:12 2G3:12 2C4:12
 ,4E4·
 ,4G4·
@@ -62,6 +66,7 @@
 *dynamic_p,*dynamic_p
 *pedal_sustain,
 *tempo_4=240,
+*title_allegro,
 4E3 4C4,8C5¯L
 ,8B4♭⅃
 -8|,-8|
@@ -833,6 +838,7 @@
 *dynamic_pp,*dynamic_pp
 *pedal_sustain,
 *tempo_4=40,
+*title_largo,
 12F1#q,
 12A1q,
 12D2q,
@@ -886,6 +892,7 @@
 -102|,-102|
 *dynamic_ff,*dynamic_ff
 *tempo_4=240,
+*title_allegro,
 2F1#,12F3#L 12A3
 ,12C4#
 ,12F3#⅃ 12A3
@@ -1324,6 +1331,7 @@
 -146|,-146|
 *pedal_sustain,
 *tempo_4=40,
+*title_largo,
 1C2#:12 1E2:12 1A2:12,2C3#:12 2E3:12 2A3:12
 ,4C4#`
 ,4E4`
@@ -1356,6 +1364,7 @@
 4r;,4r;
 *dynamic_p,*dynamic_p
 *tempo_4=240,
+*title_allegro,
 4C3#· 4A3·,8A4¯L
 ,8G4⅃
 -152|,-152|
@@ -1390,6 +1399,7 @@
 *dynamic_f,*dynamic_f
 *dynamic_scendo,*dynamic_scendo
 *tempo_4=60,
+*title_adagio,
 2A3! 2D4!,2F4! 4.G4#¯!+ƨ8#
 ,16B4¯L
 ,16A4⅃
@@ -1399,6 +1409,7 @@
 *dynamic_pp,*dynamic_pp
 *pedal_sustain,
 *tempo_4=40,
+*title_largo,
 1E2¯: 1G2¯: 1C3¯:,2E3: 2G3: 2C4:
 ,4E4·
 ,4G4·
@@ -1426,6 +1437,7 @@
 1r;,1A4♭;
 -162|,-162|
 *tempo_4=250,
+*title_allegro,
 4E1#· 4C2#· 4E2#·,4G3#· 4C4#· 4G4#·
 4r,4r
 4E1#· 4C2#· 4E2#·,4G3#· 4C4#· 4G4#·

@@ -3,6 +3,8 @@
 *dynamic_p,*dynamic_p
 *metre_2/4,
 *tempo_4=40,
+*title_adagio,
+*title_das_lebewohl,
 2r,4E4♭ 4G4
 ,4B3♭ 4F4
 -1|,-1|
@@ -102,10 +104,11 @@
 8C4 8E4♭,8A4♭ 8A5♭
 8r,8r
 8C4 8E4♭,8A4♭ 8A5♭
--16||:,-16||:
+-16|:,-16|:
 *dynamic_f,*dynamic_f
 *metre_4/4,
 *tempo_4=240,
+*title_allegro,
 2.C4 2.E4♭,2.A4♭ 2.A5♭
 8B3L 8D4¯,4G4 8D5¯L
 8B3♭⅃ 8D4♭,8G5⅃

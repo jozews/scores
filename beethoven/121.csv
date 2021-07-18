@@ -3,6 +3,7 @@
 *dynamic_p,*dynamic_p
 *metre_3/8,
 *tempo_8=80,
+*title_andante_con_variazioni,
 8E3♭,8E4♭
 -1|,-1|
 4.A2♭ 8E3♭¯L,4.C4 8E4♭¯L
@@ -193,6 +194,7 @@
 *accidents_B1♭E1♭A1♭D1♭,
 *metre_3/8,
 *tempo_8=86.66,
+*title_variazione_1,
 8r,8E3♭¯
 -36|,-36|
 4.A1♭ 4.E2♭ 4.A2♭,32E3♭¯L
@@ -483,6 +485,7 @@
 -70||,-70||
 *metre_3/8,
 *tempo_8=80,
+*title_variazione_2,
 16E2♭L 16E3♭,32r
 ,32C4L 32E4♭
 16E2♭⅃ 16E3♭,32r
@@ -926,6 +929,7 @@
 *accidents_B1♭E1♭A1♭D1♭G1♭C1♭F1♭,
 *metre_3/8,
 *tempo_8=86.66,
+*title_variazione_3,
 8r,16E3♭L
 ,16E3♭¯⅃
 -106|,-106|
@@ -1159,6 +1163,7 @@
 *dynamic_pp,*dynamic_pp
 *metre_3/8,
 *tempo_8=80,
+*title_variazione_4,
 8r,8E4♭¯
 -141|,-141|
 8A2♭· 8C3·,8E4♭¯L
@@ -1327,6 +1332,7 @@
 *dynamic_p,*dynamic_p
 *metre_3/8,
 *tempo_8=86.66,
+*title_variazione_5,
 8r,24C4L
 ,24F4
 ,24E4♭⅃

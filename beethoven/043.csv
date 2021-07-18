@@ -1,7 +1,7 @@
 -0|,-0|
 *dynamic_p,*dynamic_p
 *metre_3/4,
-*section_allegro,
+*title_allegro,
 *tempo_4=200,
 4r,2B3♭ 2E4♭ 2G4 2B4♭¯
 4E3♭¯,
@@ -463,9 +463,9 @@
 4r,
 -95:||:,-95:||:
 *dynamic_pp,*dynamic_pp
-*section_minore,
 *tempo_4=222.22,
-4B3♭,4r
+*title_minore,
+4r,4B3♭
 -96|,-96|
 12E2♭L,12G3♭L
 12B2♭,12B3♭

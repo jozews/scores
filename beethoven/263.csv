@@ -4,6 +4,9 @@
 *metre_6/8,
 *tempo_8=320,
 *tempo_accelerando,
+*title_das_wiedersehen,
+*title_im_lebhaftesten_zeitmasse,
+*title_vivacissimamente,
 8B3♭· 8D4· 8F4· 8A4♭·,8A5♭· 8D6· 8F6· 8A6♭·
 16B2♭L,16B3♭L
 16D3,16A3
@@ -1986,6 +1989,7 @@
 8r,8r
 *dynamic_scendo,*dynamic_scendo
 *tempo_8=302.22,
+*title_poco_andante,
 4r,4B4♭!
 8r,8B4♭
 -177|,-177|
@@ -2117,9 +2121,10 @@
 8B2♭;⅃ 8A3♭; 8B3♭;,
 ,16D4;⅃ 16F4;
 -191|,-191|
-*dynamic_f,*dynamic_f
+*dynaic_f,
 *tempo_+16,
 *tempo_8=320,
+*title_vivacissimamente,
 8B4♭L,16B5♭L
 ,16B6♭
 8G4,16G5
