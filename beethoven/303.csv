@@ -105,8 +105,8 @@
 -16:|:,-16:|:
 *metre_3/4,
 *tempo_4=69.95,
-*title_molto_espressivo,
 *title_variazione_1,
+*title_molto_espressivo,
 ,24B4q
 4E2,2B5>
 4B2 4E3 4G3# 4B3,
@@ -252,8 +252,8 @@
 *dynamic_p,*dynamic_p
 *metre_3/4,
 *tempo_4=77.15,
-*title_leggieramente,
 *title_variazione_2,
+*title_leggieramente,
 16E2L,16r
 16r,16B3L
 16r,16G4#⅃
@@ -644,8 +644,8 @@
 *dynamic_f,*dynamic_f
 *metre_2/4,
 *tempo_4=154.3,
-*title_allegro_vivace,
 *title_variazione_3,
+*title_allegro_vivace,
 16G3#L,8E4
 16B3,
 16A3,8r
@@ -949,8 +949,8 @@
 *dynamic_mv,*dynamic_mv
 *metre_9/8,
 *tempo_4=67.89,
-*title_etwas_langsamer_als_das_thema,
 *title_variazione_4,
+*title_etwas_langsamer_als_das_thema,
 4G4#,16B4¯L
 ,16D5#¯
 ,16E5¯
@@ -1344,8 +1344,8 @@
 *dynamic_f,*dynamic_f
 *metre_2/2,
 *tempo_2=123.45,
-*title_allegro_ma_non_troppo,
 *title_variazione_5,
+*title_allegro_ma_non_troppo,
 4r,2G3#
 4E2·,
 2G2#¯!,2E3¯
@@ -1674,8 +1674,8 @@
 *dynamic_mv,*dynamic_mv
 *metre_3/4,
 *tempo_4=74.07,
-*title_tempo_primo_del_tema,
 *title_variazione_6,
+*title_tempo_primo_del_tema,
 4E2 4B2`,4G4# 4B4`
 4G2# 4B2`,4E4 4B4`
 4F2# 4B2`,4F4# 4B4`
