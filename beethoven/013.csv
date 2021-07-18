@@ -2,8 +2,9 @@
 *accidents_B1♭E1♭A1♭D1♭,
 *dynamic_p,*dynamic_p
 *metre_3/4,
-*section_menuetto,
 *tempo_4=120,
+*title_allegretto,
+*title_menuetto,
 4r,4C4· 4A4♭·
 -1|,-1|
 4r,4D4♭¯ 4B4♭
@@ -198,8 +199,8 @@
 -42:|:,-42:|:
 *accidents_B1♭,
 *dynamic_p,*dynamic_p
-*section_trio,
 *tempo_4=133.33,
+*title_trio,
 4r,4C4
 -43|,-43|
 4F3¯,8A4¯L
